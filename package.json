@@ -1,11 +1,11 @@
 {
-  "author": "Spree Staff",
-  "name": "js-test",
+  "author": "Faheem",
+  "name": "jstests",
   "description": "A test-driven assessment of JavaScript skills",
   "version": "0.3.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/spreeza/js-test.git"
+    "url": "https://github.com/Its-Fhm/jstests.git"
   },
   "engines": {
     "node": "^4.2.4"
@@ -14,7 +14,7 @@
     "backbone": "^1.1.2",
     "chai": "^2.3.0",
     "expect.js": "0.1.2",
-    "jquery": "^1.11.0",
+    "jquery": "^3.0.0", 
     "mocha": "^2.2.4",
     "sinon": "^1.14.1",
     "underscore": "1.8.x"
@@ -27,7 +27,7 @@
     "setup": "npm install -g browser-sync@latest"
   },
   "bugs": {
-    "url": "https://github.com/spreeza/js-test/issues"
+    "url": "https://github.com/spreeza/Its-Fhm/jstests"
   },
   "private": true,
   "devDependencies": {
